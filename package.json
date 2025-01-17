@@ -1,0 +1,30 @@
+{
+  "name": "gitflux",
+  "version": "2.0.1",
+  "description": "Manage multiple git accounts with ease",
+  "bin": {
+    "gitflux": "./bin/gitflux"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "chmod +x ./bin/gitflux"
+  },
+  "keywords": [
+    "git",
+    "account-management",
+    "git-accounts",
+    "ssh-keys",
+    "developer-tools"
+  ],
+  "author": "Aryan Michael",
+  "license": "MIT",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan-michael/gitflux-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aryan-michael/gitflux-npm/issues"
+  },
+  "homepage": "https://github.com/aryan-michael/gitflux-npm#readme"
+}
