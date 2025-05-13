@@ -1,6 +1,6 @@
 {
   "name": "gitflux",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Manage multiple git accounts with ease",
   "bin": {
     "gitflux": "./bin/gitflux"
